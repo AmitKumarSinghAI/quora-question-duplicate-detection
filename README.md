@@ -4,7 +4,7 @@ This project builds a Hybrid NLP Model to detect whether two questions are dupli
 
 - Deep Learning (BiLSTM)
 - Machine Learning Features
-- TF-IDF Similarity
+- TF-IDF Similarity 
 - Fuzzy Matching
 - NLP Text Preprocessing
 
@@ -165,12 +165,3 @@ The following files are generated after training:
 
 ---
 
-# Author
-
-Amit Kurmi
-
----
-
-# License
-
-This project is open-source and available under the MIT License.
